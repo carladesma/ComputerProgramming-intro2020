@@ -38,6 +38,8 @@ public class mainWeek5Ex1 {
 			else {
 				System.out.println("Invalid number. Please enter values between 1-100.");
 			}
+			
+			numberOfGuesses ++;
 		}
 		
 		System.out.println("You are out of turns.");
